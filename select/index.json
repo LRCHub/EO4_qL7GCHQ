@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Harleys In Hawaii",
+  "base_artist": "Katy Perry",
+  "createdAt": "2026-03-09T17:12:29.737356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/01_Harleys_In_Hawaii_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/02_Harleys_In_Hawaii_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii (KANDY Remix)",
+      "artist": "Katy Perry feat. KANDY",
+      "has_synced": true,
+      "path": "select/03_Harleys_In_Hawaii_(KANDY_Remix)_Katy_Perry_feat._KANDY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Harleys in Hawaii (KANDY remix)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/04_Harleys_in_Hawaii_(KANDY_remix)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Harleys in Hawaii",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/05_Harleys_in_Hawaii_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii",
+      "artist": "Katy Perry - Topic",
+      "has_synced": true,
+      "path": "select/06_Harleys_In_Hawaii_Katy_Perry_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Katy Perry - Harleys In Hawaii (Official)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/07_Katy_Perry_-_Harleys_In_Hawaii_(Official)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii (Official)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/08_Harleys_In_Hawaii_(Official)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Katy Perry - Harleys In Hawaii (Official Audio)",
+      "artist": "Nightly",
+      "has_synced": true,
+      "path": "select/09_Katy_Perry_-_Harleys_In_Hawaii_(Official_Audio)_Nightly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii - KANDY Remix",
+      "artist": "Katy Perry feat. KANDY",
+      "has_synced": true,
+      "path": "select/10_Harleys_In_Hawaii_-_KANDY_Remix_Katy_Perry_feat._KANDY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii (KANDY Remix)",
+      "artist": "Katy Perry, KANDY",
+      "has_synced": true,
+      "path": "select/11_Harleys_In_Hawaii_(KANDY_Remix)_Katy_Perry,_KANDY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/12_Harleys_In_Hawaii_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Katy Perry - Harleys In Hawaii (Slowed TikTok) (Lyrics) You and i",
+      "artist": "Dan Music",
+      "has_synced": true,
+      "path": "select/13_Katy_Perry_-_Harleys_In_Hawaii_(Slowed_TikTok)_(Lyrics)_You_and_i_Dan_Music.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Katy Perry - Harleys In Hawaii (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/14_Katy_Perry_-_Harleys_In_Hawaii_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "harleys in hawaii - sped up",
+      "artist": "90degrees feat. eyeroze & Chill Town Records",
+      "has_synced": false,
+      "path": "select/15_harleys_in_hawaii_-_sped_up_90degrees_feat._eyeroze_&_Chill_Town_Records.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "harleys in hawaii - sped up",
+      "artist": "90degrees, eyeroze, Melodyz Town",
+      "has_synced": false,
+      "path": "select/16_harleys_in_hawaii_-_sped_up_90degrees,_eyeroze,_Melodyz_Town.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Harleys In Hawaii",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/17_Harleys_In_Hawaii_Katy_Perry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Harleys In Hawaii",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_Harleys_In_Hawaii_Katy_Perry.txt"
+    }
+  ]
+}
